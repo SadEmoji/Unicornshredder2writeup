@@ -51,6 +51,7 @@ Find the flag!
    I did not work. You can find this script on my github.
 
 7. I tought that because its only two colors in the image i may be able to pixelsort it!
+   I wanted to sort it so white pixels needs to touch other white pixels.
    Wrote a script for that, this one; https://github.com/SadEmoji/Python_scripts/blob/main/Image_arrange_sort_color.py
 
 8. Success!

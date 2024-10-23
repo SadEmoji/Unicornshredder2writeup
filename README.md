@@ -50,7 +50,7 @@ Find the flag!
    Thought dumb luck is still luck.
    I did not work. You can find this script on my github.
 
-7. I tought that because its only two colors in the image i may be able to pixel sort it!
+7. I tought that because its only two colors in the image i may be able to pixelsort it!
    Wrote a script for that, this one; https://github.com/SadEmoji/Python_scripts/blob/main/Image_arrange_sort_color.py
 
 8. Success!

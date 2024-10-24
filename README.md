@@ -55,7 +55,7 @@ Find the flag!
    Wrote a script for that, this one; https://github.com/SadEmoji/Python_scripts/blob/main/Image_arrange_sort_color.py
 
 8. Success!
-   Somthing that is somewhat readable
+   Something that is somewhat readable
   ![1](https://github.com/user-attachments/assets/efcc8c5e-75cb-491f-8d91-485d7b8db7fa)
 
 9. Opened the image in a image-manipulator software, like gimp.

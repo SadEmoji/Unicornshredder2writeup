@@ -28,7 +28,7 @@ Find the flag!
    ![image](https://github.com/user-attachments/assets/0b18aa50-e210-4bd0-86a6-a6c0925e8067)
 
    It seems to only shred on the width...
-   To try the theory i mad this image;
+   To try the theory i made this image;
    ![test4](https://github.com/user-attachments/assets/ed05ef42-cd43-41d0-85a8-8ab85e8d98a7)
     This was to see if it only shifts to the side. The Results confirmed it;
    ![image](https://github.com/user-attachments/assets/75d66f2c-9580-4b36-9dbf-8017cea45215)
